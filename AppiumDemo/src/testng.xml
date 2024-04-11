@@ -1,0 +1,11 @@
+<suite name="Ola Login" verbose="1">
+    <test name="Log hours">
+        <classes>
+            <class name="LaunchBrowser">
+                <methods>
+                    <include name="prameterTestOne" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
